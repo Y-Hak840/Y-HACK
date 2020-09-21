@@ -6,21 +6,19 @@
 
 <pre>
 
-[+] pkg update
+pkg update
 
-[+] pkg upgrade 
+pkg upgrade
 
-[+] pkg install python 
+pkg install git
 
-[+] git clone :https://github.com/Y-Hak840/Y-Hack
+pkg install python 
 
-[+] ls
+git clone :https://github.com/Y-Hak840/Y-Hack
 
-[+] cd Y-HACK
+cd Y-HACK
 
-[+] chmod +x 
-
-[+] python Y.py 
+python Y.py 
 
 </pre>
 
