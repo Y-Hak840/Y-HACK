@@ -14,7 +14,7 @@ pkg install git
 
 pkg install python 
 
-git clone :https://github.com/Y-Hak840/Y-Hack
+git clone https://github.com/Y-Hak840/Y-Hack
 
 cd Y-HACK
 
